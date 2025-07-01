@@ -1,6 +1,10 @@
 # papernotas.github.io
 Appendix for paper published in Notas de Poblacion
 
+<h2 id="peru">Peru</h2>
+
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/970d440867a6d142d44f1820b6a7fb7d85d73db9/data/Peru_Deaths.txt"> Total Death Counts, by age and sex </a></li>
+
 # Informal sector has stronger differentials on individual earnings across education groups
 
 Authors
