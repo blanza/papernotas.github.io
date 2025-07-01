@@ -5,7 +5,7 @@ Appendix for paper published in Notas de Poblacion
 
 <li><a href="https://github.com/blanza/papernotas.github.io/blob/main/2025_05_15_DD_informality_manuscript_clean.docx"> Additional Material for the paper </a></li>
 
-<li><a href="https://github.com/blanza/papernotas.github.io/blob/main/2025_05_15_DD_informality_manuscript_clean.docx"> Figures and Tables </a></li>
+<li><a href="https://github.com/blanza/papernotas.github.io/blob/main/b-Figures_DD_informality.xlsx"> Figures and Tables </a></li>
 
 # Informal sector has stronger differentials on individual earnings across education groups
 
