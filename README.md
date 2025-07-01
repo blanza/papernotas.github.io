@@ -3,7 +3,7 @@ Appendix for paper published in Notas de Poblacion
 
 <h2 id="peru"> Paper and Appendix </h2>
 
-<li><a href=" "> Additional Material for the paper </a></li>
+<li><a href="https://github.com/blanza/papernotas.github.io/blob/main/2025_05_15_DD_informality_manuscript_clean.docx"> Additional Material for the paper </a></li>
 
 # Informal sector has stronger differentials on individual earnings across education groups
 
