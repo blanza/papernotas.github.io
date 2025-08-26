@@ -3,7 +3,7 @@ Annex A1 for paper published in Notas de Poblacion - Individual earnings differe
 
 <h2 id="peru"> Annex A1 </h2>
 
-<li><a href="https://github.com/blanza/papernotas.github.io/blob/main/Amaral_et_al_2025.pdf"> Annex A1 </a></li>
+<li><a href="https://github.com/blanza/papernotas.github.io/blob/main/Annex%20A1.pdf"> Annex A1 </a></li>
 
 File contains the following Tables
 
