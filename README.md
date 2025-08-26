@@ -23,7 +23,7 @@ Table A1.6 - Brazil: coefficients and standard errors estimated by ordinary leas
 Table A1.7 - Brazil: coefficients and standard errors estimated by ordinary least squares regression from equation (8) for the logarithm of informal urban male workers’ individual earnings as the dependent variable, 1980–2010
 
 
-<h2 id="peru"> Additional Material - tables and figures in Excel Files </h2>
+<h2 id="peru"> Additional Material </h2>
 
 <li><a href="https://docs.google.com/spreadsheets/d/1I19EbZiXSWdws5RxH4YS9MKYNLSciWeB/edit?usp=drive_link&ouid=108556062793310430114&rtpof=true&sd=true"> Additional Material in Excel files </a></li>
 
